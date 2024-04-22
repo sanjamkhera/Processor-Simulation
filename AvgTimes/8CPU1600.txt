@@ -1,0 +1,10 @@
+Average turnaround time per type:
+Type 0: 27000 usec
+Type 1: 33246 usec
+Type 2: 85899 usec
+Type 3: 70531 usec
+Average response time per type:
+Type 0: 24097 usec
+Type 1: 24208 usec
+Type 2: 16324 usec
+Type 3: 14564 usec
