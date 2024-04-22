@@ -26,6 +26,3 @@ About the Project
 
 ## Compile and Run 
 Simply write ```make``` to compile all the files run as per the requirement of the assignment. 
-
-### Additional Notes
-I wasn't able to complete the table on time but I have provided correct outputs for each run in Avg Times Directory. 
